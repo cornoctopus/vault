@@ -1,0 +1,19 @@
+payload:
+  - DOMAIN-SUFFIX,fork.kino.pub
+  - DOMAIN-SUFFIX,ci.kino.pub
+  - DOMAIN-SUFFIX,kino.pub
+  - DOMAIN-SUFFIX,o.kino.pub
+  - DOMAIN-SUFFIX,mail1.kino.pub
+  - DOMAIN-SUFFIX,api.test.kino.pub
+  - DOMAIN-SUFFIX,dark.kino.pub
+  - DOMAIN-SUFFIX,mail.kino.pub
+  - DOMAIN-SUFFIX,api.stage.kino.pub
+  - DOMAIN-SUFFIX,cdn.stage.kino.pub
+  - DOMAIN-SUFFIX,media.kino.pub
+  - DOMAIN-SUFFIX,old.kino.pub
+  - DOMAIN-SUFFIX,service.kino.pub
+  - DOMAIN-SUFFIX,www.kino.pub
+  - DOMAIN-SUFFIX,cdn.test.kino.pub
+  - DOMAIN-SUFFIX,stage.kino.pub
+  - DOMAIN-SUFFIX,test.kino.pub
+  - DOMAIN-SUFFIX,www.media.kino.pub
