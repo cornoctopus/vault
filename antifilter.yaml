@@ -1,20 +1,105 @@
 payload:
   - DOMAIN-KEYWORD,rutracker
+  - DOMAIN-KEYWORD,pornolab
+  - DOMAIN-KEYWORD,rutor
+  - DOMAIN-KEYWORD,rule34
+  - DOMAIN-KEYWORD,slivup
+  - DOMAIN-KEYWORD,dellcdn
+  - DOMAIN-KEYWORD,themoviedb
+  - DOMAIN-KEYWORD,tmdb
+  - DOMAIN-KEYWORD,hashicorp
+  - DOMAIN-KEYWORD,aqicn
+  - DOMAIN-KEYWORD,atlassian
+  - DOMAIN-KEYWORD,deezer
+  - DOMAIN-KEYWORD,terraform
+  - DOMAIN-KEYWORD,mongodb
+  - DOMAIN-KEYWORD,amazonaws
+  - DOMAIN-KEYWORD,xvideos
+  - DOMAIN-KEYWORD,torproject
+  - DOMAIN-SUFFIX,dell.com
+  - DOMAIN-SUFFIX,aqicn.org
+  - DOMAIN-SUFFIX,hashicorp.com
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,rutracker.net
+  - DOMAIN-SUFFIX,devops.com
   - DOMAIN-SUFFIX,flibusta.net
   - DOMAIN-SUFFIX,pornolab.net
-  - DOMAIN-KEYWORD,pornolab
   - DOMAIN-SUFFIX,rutor.org
-  - DOMAIN-KEYWORD,rutor
   - DOMAIN-SUFFIX,lib.rus.ec
   - DOMAIN-SUFFIX,rezka.ag
   - DOMAIN-SUFFIX,rule34.paheal.net
-  - DOMAIN-KEYWORD,rule34
+  - DOMAIN-SUFFIX,torproject.org
   - DOMAIN-SUFFIX,rule34.xxx
+  - DOMAIN-SUFFIX,sysdig.com
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,nnmclub.to
   - DOMAIN-SUFFIX,slivup.cc
-  - DOMAIN-KEYWORD,slivup
   - DOMAIN-SUFFIX,simsms.org
+  - DOMAIN-SUFFIX,soapui.org
+  - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-SUFFIX,cock.li
   - DOMAIN-SUFFIX,btdig.com
+  - DOMAIN-SUFFIX,10minutemail.com
+  - DOMAIN-SUFFIX,4pda.ru
+  - DOMAIN-SUFFIX,atlassian.com
+  - DOMAIN-SUFFIX,bitru.org
+  - DOMAIN-SUFFIX,bitcoin.org
+  - DOMAIN-SUFFIX,canva.com
+  - DOMAIN-SUFFIX,certifytheweb.com
+  - DOMAIN-SUFFIX,chess.com
+  - DOMAIN-SUFFIX,cisco.com
+  - DOMAIN-SUFFIX,citrix.com
+  - DOMAIN-SUFFIX,clamav.net
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,mongodb.com 
+  - DOMAIN-SUFFIX,crunchyroll.com
+  - DOMAIN-SUFFIX,forklog.com
+  - DOMAIN-SUFFIX,gallery.zetalliance.org
+  - DOMAIN-SUFFIX,gnome-look.org
+  - DOMAIN-SUFFIX,kinokopilka.pro
+  - DOMAIN-SUFFIX,kinozal.me
+  - DOMAIN-SUFFIX,kinozal.tv
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-SUFFIX,linuxiac.com
+  - DOMAIN-SUFFIX,localbitcoins.com
+  - DOMAIN-SUFFIX,lostfilm.tv
+  - DOMAIN-SUFFIX,lostfilm.win
+  - DOMAIN-SUFFIX,mattermost.com
+  - DOMAIN-SUFFIX,megapeer.ru
+  - DOMAIN-SUFFIX,mouser.com
+  - DOMAIN-SUFFIX,mrakopedia.net
+  - DOMAIN-SUFFIX,nordvpn.com
+  - DOMAIN-SUFFIX,piccy.info
+  - DOMAIN-SUFFIX,ru.depositphotos.com
+  - DOMAIN-SUFFIX,nyaa.si
+  - DOMAIN-SUFFIX,torrent.by
+  - DOMAIN-SUFFIX,tutanota.com
+  - DOMAIN-SUFFIX,underver.se
+  - DOMAIN-SUFFIX,uniongang.tv
+  - DOMAIN-SUFFIX,vrv.co
+  - DOMAIN-SUFFIX,vyos.io
+  - DOMAIN-SUFFIX,weather.com
+  - DOMAIN-SUFFIX,wheather.com
+  - DOMAIN-SUFFIX,windguru.cz
+  - DOMAIN-SUFFIX,xhamster.com
+  - DOMAIN-SUFFIX,xhamsterlive.com
+  - DOMAIN-SUFFIX,nyaa.tracker.wf
+  - DOMAIN-SUFFIX,oasis.app
+  - DOMAIN-SUFFIX,omv-extras.org
+  - DOMAIN-SUFFIX,os.mbed.com
+  - DOMAIN-SUFFIX,packages.gitlab.com
+  - DOMAIN-SUFFIX,pb.wtf
+  - DOMAIN-SUFFIX,terraform.io
+  - DOMAIN,artifacts.elastic.co
+  - DOMAIN,kino.pub
+  - DOMAIN,bt.t-ru.org
+  - DOMAIN,bt2.t-ru.org
+  - DOMAIN,bt3.t-ru.org
+  - DOMAIN,bt4.t-ru.org
+  - DOMAIN,download.lenovo.com
+  - DOMAIN,meteo.paraplan.net
+
+
+
+
