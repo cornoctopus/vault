@@ -4,7 +4,6 @@ payload:
   - DOMAIN-KEYWORD,rutor
   - DOMAIN-KEYWORD,rule34
   - DOMAIN-KEYWORD,slivup
-  - DOMAIN-KEYWORD,dellcdn
   - DOMAIN-KEYWORD,themoviedb
   - DOMAIN-KEYWORD,tmdb
   - DOMAIN-KEYWORD,hashicorp
@@ -16,7 +15,6 @@ payload:
   - DOMAIN-KEYWORD,amazonaws
   - DOMAIN-KEYWORD,xvideos
   - DOMAIN-KEYWORD,torproject
-  - DOMAIN-SUFFIX,dell.com
   - DOMAIN-SUFFIX,aqicn.org
   - DOMAIN-SUFFIX,hashicorp.com
   - DOMAIN-SUFFIX,themoviedb.org
