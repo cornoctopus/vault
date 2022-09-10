@@ -15,6 +15,13 @@ payload:
   - DOMAIN-KEYWORD,amazonaws
   - DOMAIN-KEYWORD,xvideos
   - DOMAIN-KEYWORD,torproject
+  - DOMAIN-KEYWORD,etsy
+  - DOMAIN-SUFFIX,illusion.jp
+  - DOMAIN-SUFFIX,illusion.co.jp
+  - DOMAIN-SUFFIX,vmware.com
+  - DOMAIN-KEYWORD,notonthehighstreet
+  - DOMAIN-SUFFIX,notonthehighstreet.com
+  - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,aqicn.org
   - DOMAIN-SUFFIX,hashicorp.com
   - DOMAIN-SUFFIX,themoviedb.org
