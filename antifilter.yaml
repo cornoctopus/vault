@@ -18,12 +18,16 @@ payload:
   - DOMAIN-KEYWORD,etsy
   - DOMAIN-KEYWORD,notonthehighstreet
   - DOMAIN-SUFFIX,illusion.jp
+  - DOMAIN-SUFFIX,similarweb.com
   - DOMAIN-SUFFIX,illusion.co.jp
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,crdclub.su
   - DOMAIN-SUFFIX,dlsite.com
   - DOMAIN-SUFFIX,notonthehighstreet.com
   - DOMAIN-SUFFIX,etsy.com
+  - DOMAIN-SUFFIX,intel.com
+  - DOMAIN-SUFFIX,quora.com
+  - DOMAIN-SUFFIX,dlsite.com
   - DOMAIN-SUFFIX,aqicn.org
   - DOMAIN-SUFFIX,hashicorp.com
   - DOMAIN-SUFFIX,themoviedb.org
