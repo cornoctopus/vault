@@ -1,26 +1,34 @@
 payload:
   - DOMAIN-KEYWORD,rutracker
-  - DOMAIN-KEYWORD,pornolab
   - DOMAIN-KEYWORD,rutor
   - DOMAIN-KEYWORD,rule34
-  - DOMAIN-KEYWORD,slivup
   - DOMAIN-KEYWORD,themoviedb
   - DOMAIN-KEYWORD,tmdb
-  - DOMAIN-KEYWORD,hashicorp
-  - DOMAIN-KEYWORD,aqicn
-  - DOMAIN-KEYWORD,atlassian
-  - DOMAIN-KEYWORD,deezer
-  - DOMAIN-KEYWORD,terraform
-  - DOMAIN-KEYWORD,mongodb
+  - DOMAIN-SUFFIX,aqicn
   - DOMAIN-KEYWORD,amazonaws
-  - DOMAIN-KEYWORD,xvideos
-  - DOMAIN-KEYWORD,torproject
-  - DOMAIN-KEYWORD,etsy
-  - DOMAIN-KEYWORD,notonthehighstreet
+  - DOMAIN-SUFFIX,atlassian.com
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-KEYWORD,terraform.io
+  - DOMAIN-SUFFIX,mongodb.com 
+  - DOMAIN-SUFFIX,torproject.org
+  - DOMAIN-SUFFIX,hashicorp.com
+  - DOMAIN-SUFFIX,etsy.com
+  - DOMAIN-SUFFIX,notonthehighstreet.com
+  - DOMAIN-SUFFIX,pornolab.net 
+  - DOMAIN-SUFFIX,slivup.net
+  - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
+  - DOMAIN-SUFFIX,tidal.com
+  - DOMAIN-SUFFIX,tidalhifi.com
+  - DOMAIN-SUFFIX,wimpmusic.com
+  - DOMAIN-SUFFIX,deezer.com
+  - DOMAIN-SUFFIX,dzcdn.net
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,prnt.sc
+  - DOMAIN-SUFFIX,nhentai.net
   - DOMAIN-SUFFIX,illusion.jp
   - DOMAIN-SUFFIX,similarweb.com
   - DOMAIN-SUFFIX,illusion.co.jp
-  - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,crdclub.su
   - DOMAIN-SUFFIX,dlsite.com
   - DOMAIN-SUFFIX,notonthehighstreet.com
