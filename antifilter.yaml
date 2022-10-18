@@ -7,13 +7,8 @@ payload:
   - DOMAIN-SUFFIX,aqicn
   - DOMAIN-KEYWORD,amazonaws
   - DOMAIN-SUFFIX,atlassian.com
-  - DOMAIN-SUFFIX,xvideos.com
   - DOMAIN-KEYWORD,terraform.io
-  - DOMAIN-SUFFIX,mongodb.com 
   - DOMAIN-SUFFIX,torproject.org
-  - DOMAIN-SUFFIX,hashicorp.com
-  - DOMAIN-SUFFIX,etsy.com
-  - DOMAIN-SUFFIX,notonthehighstreet.com
   - DOMAIN-SUFFIX,pornolab.net 
   - DOMAIN-SUFFIX,slivup.net
   - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
@@ -30,7 +25,6 @@ payload:
   - DOMAIN-SUFFIX,similarweb.com
   - DOMAIN-SUFFIX,illusion.co.jp
   - DOMAIN-SUFFIX,crdclub.su
-  - DOMAIN-SUFFIX,dlsite.com
   - DOMAIN-SUFFIX,notonthehighstreet.com
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,intel.com
@@ -48,7 +42,6 @@ payload:
   - DOMAIN-SUFFIX,lib.rus.ec
   - DOMAIN-SUFFIX,rezka.ag
   - DOMAIN-SUFFIX,rule34.paheal.net
-  - DOMAIN-SUFFIX,torproject.org
   - DOMAIN-SUFFIX,rule34.xxx
   - DOMAIN-SUFFIX,sysdig.com
   - DOMAIN-SUFFIX,e-hentai.org
