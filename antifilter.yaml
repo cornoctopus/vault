@@ -2,16 +2,13 @@ payload:
   - DOMAIN-KEYWORD,rutracker
   - DOMAIN-KEYWORD,rutor
   - DOMAIN-KEYWORD,rule34
-  - DOMAIN-KEYWORD,themoviedb
-  - DOMAIN-KEYWORD,tmdb
-  - DOMAIN-SUFFIX,aqicn
   - DOMAIN-KEYWORD,amazonaws
+  - DOMAIN-SUFFIX,arhivach.ng
+  - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,atlassian.com
-  - DOMAIN-KEYWORD,terraform.io
   - DOMAIN-SUFFIX,torproject.org
   - DOMAIN-SUFFIX,pornolab.net 
   - DOMAIN-SUFFIX,slivup.net
-  - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,tidalhifi.com
   - DOMAIN-SUFFIX,wimpmusic.com
