@@ -1,13 +1,21 @@
+# NAME: antifilter
+# AUTHOR: oedo_808
+# REPO: https://github.com/cornoctopus/vault
+# UPDATED: 2022-10-19
+# DOMAIN-KEYWORD: 6
+# DOMAIN-SUFFIX: 91
+# DOMAIN: 6
+# TOTAL: 103
 payload:
+  - DOMAIN-KEYWORD,kinozal
+  - DOMAIN-KEYWORD,lostfilm    
   - DOMAIN-KEYWORD,rutracker
   - DOMAIN-KEYWORD,rutor
   - DOMAIN-KEYWORD,rule34
   - DOMAIN-KEYWORD,amazonaws
   - DOMAIN-SUFFIX,arhivach.ng
   - DOMAIN-SUFFIX,patreon.com
-  - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,torproject.org
-  - DOMAIN-SUFFIX,pornolab.net 
   - DOMAIN-SUFFIX,slivup.net
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,tidalhifi.com
@@ -67,20 +75,16 @@ payload:
   - DOMAIN-SUFFIX,gallery.zetalliance.org
   - DOMAIN-SUFFIX,gnome-look.org
   - DOMAIN-SUFFIX,kinokopilka.pro
-  - DOMAIN-SUFFIX,kinozal.me
-  - DOMAIN-SUFFIX,kinozal.tv
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,linuxiac.com
   - DOMAIN-SUFFIX,localbitcoins.com
-  - DOMAIN-SUFFIX,lostfilm.tv
-  - DOMAIN-SUFFIX,lostfilm.win
   - DOMAIN-SUFFIX,mattermost.com
   - DOMAIN-SUFFIX,megapeer.ru
   - DOMAIN-SUFFIX,mouser.com
   - DOMAIN-SUFFIX,mrakopedia.net
   - DOMAIN-SUFFIX,nordvpn.com
   - DOMAIN-SUFFIX,piccy.info
-  - DOMAIN-SUFFIX,ru.depositphotos.com
+  - DOMAIN-SUFFIX,depositphotos.com
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,torrent.by
   - DOMAIN-SUFFIX,tutanota.com
@@ -102,15 +106,7 @@ payload:
   - DOMAIN-SUFFIX,terraform.io
   - DOMAIN,artifacts.elastic.co
   - DOMAIN,kino.pub
-  - DOMAIN,bt.t-ru.org
-  - DOMAIN,bt2.t-ru.org
-  - DOMAIN,bt3.t-ru.org
-  - DOMAIN,bt4.t-ru.org
+  - DOMAIN,t-ru.org
   - DOMAIN,download.lenovo.com
   - DOMAIN,meteo.paraplan.net
   - DOMAIN,yt3.ggpht.com
-
-
-
-
-
