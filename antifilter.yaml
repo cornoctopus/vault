@@ -3,9 +3,9 @@
 # REPO: https://github.com/cornoctopus/vault
 # UPDATED: 2022-10-19
 # DOMAIN-KEYWORD: 6
-# DOMAIN-SUFFIX: 92
+# DOMAIN-SUFFIX: 93
 # DOMAIN: 6
-# TOTAL: 104
+# TOTAL: 105
 payload:
   - DOMAIN-KEYWORD,kinozal
   - DOMAIN-KEYWORD,lostfilm    
@@ -13,6 +13,7 @@ payload:
   - DOMAIN-KEYWORD,rutor
   - DOMAIN-KEYWORD,rule34
   - DOMAIN-KEYWORD,rezka
+  - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,amazonaws
   - DOMAIN-SUFFIX,redis.com
   - DOMAIN-SUFFIX,arhivach.ng
