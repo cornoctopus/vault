@@ -3,9 +3,9 @@
 # REPO: https://github.com/cornoctopus/vault
 # UPDATED: 2022-10-19
 # DOMAIN-KEYWORD: 6
-# DOMAIN-SUFFIX: 93
-# DOMAIN: 6
-# TOTAL: 105
+# DOMAIN-SUFFIX: 91
+# DOMAIN: 5
+# TOTAL: 104
 payload:
   - DOMAIN-KEYWORD,kinozal
   - DOMAIN-KEYWORD,lostfilm    
@@ -19,7 +19,7 @@ payload:
   - DOMAIN-SUFFIX,arhivach.ng
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,torproject.org
-  - DOMAIN-SUFFIX,slivup.net
+  - DOMAIN-SUFFIX,slivup.cc
   - DOMAIN-SUFFIX,tidal.com
   - DOMAIN-SUFFIX,tidalhifi.com
   - DOMAIN-SUFFIX,wimpmusic.com
@@ -53,7 +53,6 @@ payload:
   - DOMAIN-SUFFIX,sysdig.com
   - DOMAIN-SUFFIX,e-hentai.org
   - DOMAIN-SUFFIX,nnmclub.to
-  - DOMAIN-SUFFIX,slivup.cc
   - DOMAIN-SUFFIX,simsms.org
   - DOMAIN-SUFFIX,soapui.org
   - DOMAIN-SUFFIX,xvideos.com
@@ -74,7 +73,7 @@ payload:
   - DOMAIN-SUFFIX,mongodb.com 
   - DOMAIN-SUFFIX,crunchyroll.com
   - DOMAIN-SUFFIX,forklog.com
-  - DOMAIN-SUFFIX,gallery.zetalliance.org
+  - DOMAIN-SUFFIX,zetalliance.org
   - DOMAIN-SUFFIX,gnome-look.org
   - DOMAIN-SUFFIX,kinokopilka.pro
   - DOMAIN-SUFFIX,linkedin.com
@@ -106,9 +105,8 @@ payload:
   - DOMAIN-SUFFIX,packages.gitlab.com
   - DOMAIN-SUFFIX,pb.wtf
   - DOMAIN-SUFFIX,terraform.io
-  - DOMAIN,artifacts.elastic.co
+  - DOMAIN-SUFFIX,elastic.co
+  - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN,kino.pub
-  - DOMAIN,t-ru.org
   - DOMAIN,download.lenovo.com
   - DOMAIN,meteo.paraplan.net
-  - DOMAIN,yt3.ggpht.com
