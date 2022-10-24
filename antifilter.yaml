@@ -2,10 +2,10 @@
 # AUTHOR: oedo_808
 # REPO: https://github.com/cornoctopus/vault
 # UPDATED: 2022-10-19
-# DOMAIN-KEYWORD: 6
+# DOMAIN-KEYWORD: 8
 # DOMAIN-SUFFIX: 92
 # DOMAIN: 5
-# TOTAL: 105
+# TOTAL: 107
 payload:
   - DOMAIN-KEYWORD,kinozal
   - DOMAIN-KEYWORD,lostfilm    
@@ -13,6 +13,8 @@ payload:
   - DOMAIN-KEYWORD,rutor
   - DOMAIN-KEYWORD,rule34
   - DOMAIN-KEYWORD,rezka
+  - DOMAIN-KEYWORD,lordfilms
+  - DOMAIN-KEYWORD,lordfilm
   - DOMAIN-SUFFIX,iherb.com
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,amazonaws
