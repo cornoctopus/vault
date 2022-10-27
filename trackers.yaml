@@ -1,137 +1,106 @@
 payload:
+  - DOMAIN-SUFFIX,t-ru.org
   - DOMAIN-SUFFIX,rarbg.com
-  - DOMAIN-SUFFIX,tracker.openbittorrent.com
-  - DOMAIN-SUFFIX,opentracker.i2p.rocks
-  - DOMAIN-SUFFIX,opentracker.i2p.rocks
-  - DOMAIN-SUFFIX,tracker.torrent.eu.org
-  - DOMAIN-SUFFIX,open.stealth.si
-  - DOMAIN-SUFFIX,tracker.tiny-vps.com
-  - DOMAIN-SUFFIX,tracker.pomf.se
-  - DOMAIN-SUFFIX,tracker.altrosky.nl
-  - DOMAIN-SUFFIX,p4p.arenabg.com
-  - DOMAIN-SUFFIX,open.demonii.com
+  - DOMAIN-SUFFIX,openbittorrent.com
+  - DOMAIN-SUFFIX,i2p.rocks
+  - DOMAIN-SUFFIX,torrent.eu.org
+  - DOMAIN-SUFFIX,stealth.si
+  - DOMAIN-SUFFIX,tiny-vps.com
+  - DOMAIN-SUFFIX,pomf.se
+  - DOMAIN-SUFFIX,altrosky.nl
+  - DOMAIN-SUFFIX,arenabg.com
+  - DOMAIN-SUFFIX,demonii.com
   - DOMAIN-SUFFIX,movies.zsw.ca
-  - DOMAIN-SUFFIX,ipv4.tracker.harry.lu
-  - DOMAIN-SUFFIX,fe.dealclub.de
+  - DOMAIN-SUFFIX,harry.lu
+  - DOMAIN-SUFFIX,dealclub.de
   - DOMAIN-SUFFIX,explodie.org
-  - DOMAIN-SUFFIX,exodus.desync.com
-  - DOMAIN-SUFFIX,bt2.archive.org
-  - DOMAIN-SUFFIX,bt1.archive.org
+  - DOMAIN-SUFFIX,desync.com
+  - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,6ahddutb1ucc3cp.ru
-  - DOMAIN-SUFFIX,tracker2.ctix.cn
-  - DOMAIN-SUFFIX,tracker1.520.jp
-  - DOMAIN-SUFFIX,tracker.nanoha.org
-  - DOMAIN-SUFFIX,tracker.lilithraws.org
-  - DOMAIN-SUFFIX,tr.burnabyhighstar.com
+  - DOMAIN-SUFFIX,ctix.cn
+  - DOMAIN-SUFFIX,520.jp
+  - DOMAIN-SUFFIX,nanoha.org
+  - DOMAIN-SUFFIX,lilithraws.org
+  - DOMAIN-SUFFIX,burnabyhighstar.com
   - DOMAIN-SUFFIX,zecircle.xyz
-  - DOMAIN-SUFFIX,yahor.ftp.sh
   - DOMAIN-SUFFIX,vibe.sleepyinternetfun.xyz
   - DOMAIN-SUFFIX,uploads.gamecoast.net
   - DOMAIN-SUFFIX,u4.trakx.crim.ist
-  - DOMAIN-SUFFIX,tracker.zemoj.com
-  - DOMAIN-SUFFIX,tracker.theoks.net
-  - DOMAIN-SUFFIX,tracker.tcp.exchange
-  - DOMAIN-SUFFIX,tracker.swateam.org.uk
-  - DOMAIN-SUFFIX,tracker.srv00.com
-  - DOMAIN-SUFFIX,tracker.publictracker.xyz
-  - DOMAIN-SUFFIX,tracker.openbtba.com
-  - DOMAIN-SUFFIX,tracker.monitorit4.me
-  - DOMAIN-SUFFIX,tracker.moeking.me
-  - DOMAIN-SUFFIX,tracker.lelux.fi
-  - DOMAIN-SUFFIX,tracker.leech.ie
-  - DOMAIN-SUFFIX,tracker.joybomb.tw
-  - DOMAIN-SUFFIX,tracker.jonaslsa.com
-  - DOMAIN-SUFFIX,tracker.filemail.com
-  - DOMAIN-SUFFIX,tracker.ddunlimited.net
-  - DOMAIN-SUFFIX,tracker.bitsearch.to
-  - DOMAIN-SUFFIX,tracker.auctor.tv
-  - DOMAIN-SUFFIX,tracker.artixlinux.org
+  - DOMAIN-SUFFIX,zemoj.com
+  - DOMAIN-SUFFIX,theoks.net
+  - DOMAIN-SUFFIX,tcp.exchange
+  - DOMAIN-SUFFIX,swateam.org.uk
+  - DOMAIN-SUFFIX,srv00.com
+  - DOMAIN-SUFFIX,publictracker.xyz
+  - DOMAIN-SUFFIX,openbtba.com
+  - DOMAIN-SUFFIX,monitorit4.me
+  - DOMAIN-SUFFIX,moeking.me
+  - DOMAIN-SUFFIX,lelux.fi
+  - DOMAIN-SUFFIX,leech.ie
+  - DOMAIN-SUFFIX,joybomb.tw
+  - DOMAIN-SUFFIX,jonaslsa.com
+  - DOMAIN-SUFFIX,filemail.com
+  - DOMAIN-SUFFIX,ddunlimited.net
+  - DOMAIN-SUFFIX,bitsearch.to
+  - DOMAIN-SUFFIX,auctor.tv
+  - DOMAIN-SUFFIX,artixlinux.org
   - DOMAIN-SUFFIX,tracker.army
-  - DOMAIN-SUFFIX,tracker.4.babico.name.tr
-  - DOMAIN-SUFFIX,tracker-udp.gbitt.info
-  - DOMAIN-SUFFIX,tr.bangumi.moe
-  - DOMAIN-SUFFIX,torrents.artixlinux.org
+  - DOMAIN-SUFFIX,babico.name.tr
+  - DOMAIN-SUFFIX,gbitt.info
+  - DOMAIN-SUFFIX,bangumi.moe
   - DOMAIN-SUFFIX,torrentclub.space
   - DOMAIN-SUFFIX,thouvenin.cloud
   - DOMAIN-SUFFIX,tamas3.ynh.fr
-  - DOMAIN-SUFFIX,smtp-relay.odysseylabel.com.au
-  - DOMAIN-SUFFIX,slicie.icon256.com00
+  - DOMAIN-SUFFIX,odysseylabel.com.au
   - DOMAIN-SUFFIX,sanincode.com
-  - DOMAIN-SUFFIX,run.publictracker.xyz
-  - DOMAIN-SUFFIX,run-2.publictracker.xyz
   - DOMAIN-SUFFIX,rep-art.ynh.fr
   - DOMAIN-SUFFIX,qtstm32fan.ru
-  - DOMAIN-SUFFIX,public.tracker.vraphim.com
-  - DOMAIN-SUFFIX,public.publictracker.xyz
+  - DOMAIN-SUFFIX,vraphim.com
   - DOMAIN-SUFFIX,psyco.fr
-  - DOMAIN-SUFFIX,open.free-tracker.ga
-  - DOMAIN-SUFFIX,open.dstud.io
+  - DOMAIN-SUFFIX,free-tracker.ga
+  - DOMAIN-SUFFIX,dstud.io
   - DOMAIN-SUFFIX,new-line.net
   - DOMAIN-SUFFIX,moonburrow.club
-  - DOMAIN-SUFFIX,mirror.aptus.co.tz
+  - DOMAIN-SUFFIX,aptus.co.tz
   - DOMAIN-SUFFIX,mail.zasaonsk.ga
-  - DOMAIN-SUFFIX,mail.artixlinux.org
   - DOMAIN-SUFFIX,madiator.com
   - DOMAIN-SUFFIX,leefafa.tk
   - DOMAIN-SUFFIX,laze.cc
   - DOMAIN-SUFFIX,kokodayo.site
   - DOMAIN-SUFFIX,keke.re
-  - DOMAIN-SUFFIX,htz3.noho.st
-  - DOMAIN-SUFFIX,fh2.cmp-gaming.com
   - DOMAIN-SUFFIX,f1sh.de
   - DOMAIN-SUFFIX,epider.me
-  - DOMAIN-SUFFIX,download.nerocloud.me
-  - DOMAIN-SUFFIX,cutscloud.duckdns.org
   - DOMAIN-SUFFIX,concen.org
-  - DOMAIN-SUFFIX,chouchou.top80
   - DOMAIN-SUFFIX,carr.codes
-  - DOMAIN-SUFFIX,camera.lei001.com
   - DOMAIN-SUFFIX,buddyfly.top
-  - DOMAIN-SUFFIX,bubu.mapfactor.com
-  - DOMAIN-SUFFIX,bt.ktrackers.com
-  - DOMAIN-SUFFIX,black-bird.ynh.fr
-  - DOMAIN-SUFFIX,ben.kerbertools.xyz
-  - DOMAIN-SUFFIX,app.icon256.com00
-  - DOMAIN-SUFFIX,admin.videoenpoche.info
-  - DOMAIN-SUFFIX,admin.52ywp.com
+  - DOMAIN-SUFFIX,ktrackers.com
   - DOMAIN-SUFFIX,aarsen.me
   - DOMAIN-SUFFIX,960303.xyz
-  - DOMAIN-SUFFIX,xtremex.herokuapp.com
-  - DOMAIN-SUFFIX,tracker.tamersunion.org
-  - DOMAIN-SUFFIX,tracker.moeblog.cn
-  - DOMAIN-SUFFIX,tracker.kuroy.me
-  - DOMAIN-SUFFIX,tracker.jiesen.life
-  - DOMAIN-SUFFIX,tracker.gbitt.info
-  - DOMAIN-SUFFIX,tracker.foreverpirates.co
-  - DOMAIN-SUFFIX,tracker.expli.top
-  - DOMAIN-SUFFIX,tr.abir.ga
-  - DOMAIN-SUFFIX,tr.abiir.top
+  - DOMAIN-SUFFIX,tamersunion.org
+  - DOMAIN-SUFFIX,moeblog.cn
+  - DOMAIN-SUFFIX,kuroy.me
+  - DOMAIN-SUFFIX,jiesen.life
+  - DOMAIN-SUFFIX,gbitt.info
+  - DOMAIN-SUFFIX,foreverpirates.co
+  - DOMAIN-SUFFIX,expli.top
   - DOMAIN-SUFFIX,1337.abcvg.info
-  - DOMAIN-SUFFIX,tracker.opentrackr.org
-  - DOMAIN-SUFFIX,tracker.openbittorrent.com
-  - DOMAIN-SUFFIX,tracker1.bt.moack.co.kr
-  - DOMAIN-SUFFIX,tracker.mywaifu.best
-  - DOMAIN-SUFFIX,tracker.files.fm
-  - DOMAIN-SUFFIX,tracker.dler.org
-  - DOMAIN-SUFFIX,t.acg.rip
+  - DOMAIN-SUFFIX,opentrackr.org
+  - DOMAIN-SUFFIX,openbittorrent.com
+  - DOMAIN-SUFFIX,moack.co.kr
+  - DOMAIN-SUFFIX,mywaifu.best
+  - DOMAIN-SUFFIX,files.fm
+  - DOMAIN-SUFFIX,dler.org
   - DOMAIN-SUFFIX,wepzone.net
-  - DOMAIN-SUFFIX,vps02.net.orel.ru
-  - DOMAIN-SUFFIX,tracker4.itzmx.com
-  - DOMAIN-SUFFIX,tracker3.itzmx.com
-  - DOMAIN-SUFFIX,tracker3.ctix.cn80
-  - DOMAIN-SUFFIX,tracker2.dler.org
-  - DOMAIN-SUFFIX,tracker1.itzmx.com80
-  - DOMAIN-SUFFIX,tracker.skyts.net
-  - DOMAIN-SUFFIX,tracker.lelux.fi
-  - DOMAIN-SUFFIX,tracker.gbitt.info
-  - DOMAIN-SUFFIX,tracker.edkj.club
-  - DOMAIN-SUFFIX,tracker.bt4g.com
-  - DOMAIN-SUFFIX,torrenttracker.nwc.acsalaska.net
-  - DOMAIN-SUFFIX,t.overflow.biz
-  - DOMAIN-SUFFIX,open.tracker.ink
-  - DOMAIN-SUFFIX,open.acgnxtracker.com
-  - DOMAIN-SUFFIX,jp.moeweb.pw
+  - DOMAIN-SUFFIX,itzmx.com
+  - DOMAIN-SUFFIX,skyts.net
+  - DOMAIN-SUFFIX,lelux.fi
+  - DOMAIN-SUFFIX,gbitt.info
+  - DOMAIN-SUFFIX,edkj.club
+  - DOMAIN-SUFFIX,bt4g.com
+  - DOMAIN-SUFFIX,tracker.ink
+  - DOMAIN-SUFFIX,acgnxtracker.com
+  - DOMAIN-SUFFIX,moeweb.pw
   - DOMAIN-SUFFIX,incine.ru
   - DOMAIN-SUFFIX,fxtt.ru
-  - DOMAIN-SUFFIX,bt.okmp3.ru
+  - DOMAIN-SUFFIX,okmp3.ru
   - DOMAIN-SUFFIX,1337.abcvg.info
