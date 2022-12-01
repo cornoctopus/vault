@@ -16,6 +16,7 @@ payload:
   - DOMAIN-KEYWORD,lordfilms
   - DOMAIN-KEYWORD,lordfilm
   - DOMAIN-SUFFIX,metacritic.com
+  - DOMAIN-SUFFIX,bitchute.com
   - DOMAIN-SUFFIX,iherb.com
   - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,amazonaws
