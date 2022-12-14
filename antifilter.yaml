@@ -113,7 +113,7 @@ payload:
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,parallels.com
-  - DOMAIN-SUFFIX,openai.co
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN,kino.pub
   - DOMAIN,download.lenovo.com
   - DOMAIN,meteo.paraplan.net
