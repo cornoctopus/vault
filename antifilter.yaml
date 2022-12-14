@@ -114,6 +114,9 @@ payload:
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,parallels.com
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,sankakucomplex.com
+  - DOMAIN-SUFFIX,donmai.us
+  - DOMAIN-SUFFIX,allthefallen.moe
   - DOMAIN,kino.pub
   - DOMAIN,download.lenovo.com
   - DOMAIN,meteo.paraplan.net
