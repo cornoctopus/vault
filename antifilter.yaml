@@ -112,6 +112,8 @@ payload:
   - DOMAIN-SUFFIX,terraform.io
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,parallels.com
+  - DOMAIN-SUFFIX,openai.co
   - DOMAIN,kino.pub
   - DOMAIN,download.lenovo.com
   - DOMAIN,meteo.paraplan.net
