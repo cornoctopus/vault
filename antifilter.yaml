@@ -117,6 +117,10 @@ payload:
   - DOMAIN-SUFFIX,sankakucomplex.com
   - DOMAIN-SUFFIX,donmai.us
   - DOMAIN-SUFFIX,allthefallen.moe
+  - DOMAIN-SUFFIX,opensea.io
+  - DOMAIN-SUFFIX,skrill.com
+  - DOMAIN-SUFFIX,neteller.com
+  - DOMAIN-SUFFIX,pinnacle.com
   - DOMAIN,kino.pub
   - DOMAIN,download.lenovo.com
   - DOMAIN,meteo.paraplan.net
